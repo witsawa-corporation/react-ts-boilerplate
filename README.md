@@ -44,3 +44,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Features
+- [ ] typescript
+- [ ] code standard with eslint and prettier
+- [ ] git-hook with husky
+- [ ] Router
+- [ ] css in js (emotion-js)
+- [ ] form components
+- [ ] auth context
+- [ ] multi language app
+- [ ] unit test
